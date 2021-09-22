@@ -1,6 +1,1 @@
-You may be asking, what kind of a genius can create such a sexy site? This guy. 
-I've used purely HTML5 & CSS3 to create the github page you are now probably marveling it. Yup. All me. 
-
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Refath/pen/MObMqo.
-
- 
+Refath Bari is an undergraduate at CCNY, pursuing a BA in Physics. He is an AI Researcher at the Meriles Lab, where he develops Artificial Neural Networks for Spin Qubit Control. He is a frequent contributor to The Washington Examiner and author of 55 Days in Dharavi. 
